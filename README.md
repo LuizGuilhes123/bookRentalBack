@@ -55,7 +55,7 @@ A documentação da API está disponível através do Swagger em: http://localho
 .Não é possível criar um livro sem associar uma editora.
 .Aluguéis devem ser finalizados ou cancelados antes de deletar o livro ou usuário associado.
 
-##Migração de Banco de Dados
+## Migração de Banco de Dados
 Utiliza o Flyway para gerenciar versões do banco de dados. Para aplicar as migrações, execute:
 
 ```
