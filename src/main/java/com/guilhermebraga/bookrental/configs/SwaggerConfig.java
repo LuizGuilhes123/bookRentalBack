@@ -19,7 +19,7 @@ public class SwaggerConfig {
     private static final String API_TITLE = "Bookstore Manager";
     private static final String API_DESCRIPTION = "Bookstore Manager API";
     private static final String CONTACT_NAME = "Luiz Guilherme de Sousa Braga";
-    private static final String CONTACT_GITHUB = "https://github.com/LUIZ-GUIH";
+    private static final String CONTACT_GITHUB = "https://github.com/LuizGuilhes123";
     private static final String CONTACT_EMAIL = "luizguilhermeinformat@gmail.com";
 
     @Bean
