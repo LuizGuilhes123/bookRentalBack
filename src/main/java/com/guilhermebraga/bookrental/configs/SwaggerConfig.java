@@ -15,12 +15,12 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 public class SwaggerConfig {
 
-    private static final String BASE_PACKAGE = "com.caiohenrique.bookrental";
+    private static final String BASE_PACKAGE = "com.guilhermebraga.bookrental";
     private static final String API_TITLE = "Bookstore Manager";
     private static final String API_DESCRIPTION = "Bookstore Manager API";
-    private static final String CONTACT_NAME = "Caio Henrique De Souza Lira";
-    private static final String CONTACT_GITHUB = "https://github.com/CAIO-HENRIQU3";
-    private static final String CONTACT_EMAIL = "caiohenrique.contato2021@gmail.com";
+    private static final String CONTACT_NAME = "Luiz Guilherme de Sousa Braga";
+    private static final String CONTACT_GITHUB = "https://github.com/LUIZ-GUIH";
+    private static final String CONTACT_EMAIL = "luizguilhermeinformat@gmail.com";
 
     @Bean
     public Docket api() {
